@@ -22,7 +22,7 @@
     <br></br>
     <h2>Step 3: Clone the repository in VS</h2>
 	    <ol>
-      		<li>If you haven't done so yet,<a href="https://code.visualstudio.com/">download Visual Code Studio</a></li>
+      		<li>If you haven't done so yet, download <a href="https://code.visualstudio.com/">Visual Code Studio</a></li>
             <li>Make sure you are using the same account for Github and VS.</li>
             <li>Copy the URL of the repository on Github.</li>
       		<li>Find the option to clone the repository on VS.</li>
@@ -37,9 +37,9 @@
 		    <li>Click “Commit”.</li>
 		    <li>The option shown below should pop-up. Click “Commit and save all changes.”</li>
 		    <li>Click on Sync Changes.</li>
-            <img src="https://drive.google.com/file/d/1-VM_lSpyR6mrWss4qvY2-q0-bGbQC7O1/view?usp=sharing" alt="Image not available" />
+            <img src="https://drive.google.com/uc?id=image(3)" alt="Image not available" />
 		    <li>When the pop-op comes up, click “ok”.</li>
-            <img src="https://drive.google.com/file/d/1Mn5LwAm7XNEBuhERDdXoW8H5HWmdX96z/view?usp=sharing" alt="Image not available" />
+            <img src="https://drive.google.com/uc?id=unnamed.pg" alt="Image not available" />
     	</ol>
     <br></br>
     <h1>Glossary:</h1>
