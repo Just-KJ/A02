@@ -41,20 +41,43 @@
     	</ol>
     <br></br>
     <h1>Glossary:</h1>
-        <ol>
+        <ul>
       		<li>Branch</li>
+            <p>An independent line of development.</p>
+            <br></br>
       		<li>Clone</li>
+            <p>Action to copy the repository from your GitHub.com into your local machine.</p>
+            <br></br>
             <li>Commit</li>
+            <p>It how changes are recorded to one or more files in your branch (Git).</p>
+            <br></br>
             <li>Fetch</li>
+            <p>It how changes are recorded to one or more files in your branch (Git).</p>
+            <br></br>
             <li>GIT</li>
+            <p>It is a version of a control system that lets you manage and keep track of your entire source code history.</p>
+            <br></br>
             <li>Github</li>
+            <p>It is a cloud-based platform which permits developers to store, share, and collaborate on their codes.</p>            
+            <br></br>
             <li>Merge</li>
+            <p>Putting a history that was forked back together again.</p>
+            <br></br>
             <li>Merge Conflict</li>
+            <p>This is a conflict that occurs when Git is unable to automatically resolve differences in code between two separate commits.</p>
+            <br></br>
             <li>Push</li>
+            <p>A command that is used to upload local repository content to a remote repository.</p>
+            <br></br>
             <li>Pull</li>
+            <p>A command used to fetch and download content from a remote repository and immediately update the local repository to match that very same content.</p>
+            <br></br>
             <li>Remote</li>
+            <p>A repository that different team members use to exchange their changes to code.</p>
+            <br></br>
             <li>Repository</li>
-    	</ol>
+            <p>It is a central storage location for the management and track of changes in files and directories.</p>
+    	</ul>
    </div>
  </body>
 </html>
