@@ -6,7 +6,7 @@
     <h1>Basics of Github & Visual Code Studio (VS)<h1>
     <h2>Step 1: Creating an account in Github</h2>
 	    <ol>
-      		<li>Go to the webpage of.</li><a href="https://github.com/">GitHub</a>
+      		<li>Go to the webpage of:<a href="https://github.com/">GitHub</a></li>
       		<li>Press “Sign Up”.</li>
       		<li>Fill out the information with your username, email, & password.</li>
       		<li>Verify your email.</li>
