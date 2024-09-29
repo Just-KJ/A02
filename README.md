@@ -39,42 +39,39 @@
 		    <li>Click on Sync Changes.</li>
 		    <li>When the pop-op comes up, click “ok”.</li>
     	</ol>
+    <h3>In case an error should appear when attempting to commit changes:</h3>
+        <p>Sometimes it is necessary to adjust the username and email to ensure that that Github and VS are connected and finding the source code.</p>
+    <h4>If needed follow these steps in the terminal:</h4>
+        <ol>
+            <li>use the command: 'git config --global user.name "Your Name" ' in order to update your name.</li>
+            <li>use the command: 'git config --global user.email "YourEmail.com" ' in order to update your email.</li>
+        </ol>
+        <p>Keep in mind you should be using the same user and email from the configuration of Github and VS.</p>
     <br></br>
     <h1>Glossary:</h1>
         <ul>
       		<li>Branch</li>
             <p>An independent line of development.</p>
-            <br></br>
       		<li>Clone</li>
             <p>Action to copy the repository from your GitHub.com into your local machine.</p>
-            <br></br>
             <li>Commit</li>
             <p>It how changes are recorded to one or more files in your branch (Git).</p>
-            <br></br>
             <li>Fetch</li>
             <p>It how changes are recorded to one or more files in your branch (Git).</p>
-            <br></br>
             <li>GIT</li>
             <p>It is a version of a control system that lets you manage and keep track of your entire source code history.</p>
-            <br></br>
             <li>Github</li>
             <p>It is a cloud-based platform which permits developers to store, share, and collaborate on their codes.</p>            
-            <br></br>
             <li>Merge</li>
             <p>Putting a history that was forked back together again.</p>
-            <br></br>
             <li>Merge Conflict</li>
             <p>This is a conflict that occurs when Git is unable to automatically resolve differences in code between two separate commits.</p>
-            <br></br>
             <li>Push</li>
             <p>A command that is used to upload local repository content to a remote repository.</p>
-            <br></br>
             <li>Pull</li>
             <p>A command used to fetch and download content from a remote repository and immediately update the local repository to match that very same content.</p>
-            <br></br>
             <li>Remote</li>
             <p>A repository that different team members use to exchange their changes to code.</p>
-            <br></br>
             <li>Repository</li>
             <p>It is a central storage location for the management and track of changes in files and directories.</p>
     	</ul>
