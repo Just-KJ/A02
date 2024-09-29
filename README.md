@@ -36,10 +36,10 @@
       		<li>Give a name to the changes.</li>
 		    <li>Click “Commit”.</li>
 		    <li>Click “Commit and save all changes.”</li>
-            <img src="https://drive.google.com/uc?id=TUTORIALIMAGE" alt="Description of the image">
+            <img src="https://drive.google.com/uc?id=TUTORIALIMAGE" alt="Image not available">
 		    <li>Click on Sync Changes.</li>
 		    <li>When the pop-op comes up, click “ok”.</li>
-            <img src="https://drive.google.com/uc?id=IMAGETUTORIAL" alt="Description of the image">
+            <img src="https://drive.google.com/uc?id=IMAGETUTORIAL" alt="Image not available">
     	</ol>
     <h3>In case an error should appear when attempting to commit changes:</h3>
         <p>Sometimes it is necessary to adjust the username and email to ensure that that Github and VS are connected and finding the source code.</p>
@@ -69,7 +69,7 @@
     <br></br>
     <h1>Glossary:</h1>
         <ul>
-      		<li>Branch</li>
+      		<li><b>Branch</b></li>
             <p>An independent line of development.</p>
       		<li>Clone</li>
             <p>Action to copy the repository from your GitHub.com into your local machine.</p>
