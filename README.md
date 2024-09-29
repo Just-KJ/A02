@@ -35,11 +35,9 @@
       		<li>Click on the Check that appears to your left or in Source Control.</li>
       		<li>Give a name to the changes.</li>
 		    <li>Click “Commit”.</li>
-            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocs.github.com%2Fen%2Fcodespaces%2Fdeveloping-in-a-codespace%2Fusing-source-control-in-your-codespace&psig=AOvVaw2Qtd4UdbzK-mRqK8iUDr67&ust=1727725656084000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNi9q-T16IgDFQAAAAAdAAAAABAE" alt="Image not available" />
 		    <li>Click “Commit and save all changes.”</li>
 		    <li>Click on Sync Changes.</li>
 		    <li>When the pop-op comes up, click “ok”.</li>
-            <img src="https://drive.google.com/uc?id=unnamed.pg" alt="Image not available" />
     	</ol>
     <br></br>
     <h1>Glossary:</h1>
