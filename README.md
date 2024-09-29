@@ -38,7 +38,21 @@
 		    <li>Click on Sync Changes.</li>
 		    <li>When the pop-op comes up, click “ok”.</li>
     	</ol>
-    <h2></h2>
+    <h1>Glossary:</h1>
+        <ol>
+      		<li><Branch</li>
+      		<li>Clone</li>
+            <li>Commit</li>
+            <li>Fetch</li>
+            <li>GIT</li>
+            <li>Github</li>
+            <li>Merge</li>
+            <li>Merge Conflict</li>
+            <li>Push</li>
+            <li>Pull</li>
+            <li>Remote</li>
+            <li>Repository</li>
+    	</ol>
    </div>
  </body>
 </html>
