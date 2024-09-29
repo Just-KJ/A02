@@ -40,7 +40,7 @@
     	</ol>
     <h1>Glossary:</h1>
         <ol>
-      		<li><Branch</li>
+      		<li>Branch</li>
       		<li>Clone</li>
             <li>Commit</li>
             <li>Fetch</li>
