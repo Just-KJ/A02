@@ -41,21 +41,21 @@
     	</ol>
     <h3>In case an error should appear when attempting to commit changes:</h3>
         <p>Sometimes it is necessary to adjust the username and email to ensure that that Github and VS are connected and finding the source code.</p>
-    <h4>Additional intrustions: If needed follow these steps in the terminal:</h4>
+    <h4>If needed follow these steps in the terminal:</h4>
         <ol>
             <li>use the command: 'git config --global user.name "Your Name" ' in order to update your name.</li>
             <li>use the command: 'git config --global user.email "YourEmail.com" ' in order to update your email.</li>
         </ol>
         <p>Keep in mind you should be using the same user and email from the configuration of Github and VS.</p>
     <br></br>
-    <h2>If you wish to make a new branch in Github:</h2>
+    <h3>Additional instructions: If you wish to make a new branch in Github:</h3>
         <ol>
             <li>At the top left of the repository menu, find and click on the option of Branch.</li>
             <li>Click on the option to create a new branch and give it a proper name.</li>
             <li>Once created, you should be now viewing the new branch and be able to make the desired changes.</li>
         </ol>
     <br></br>
-    <h2>Additional instructions: If you wish to merge Branches</h2>
+    <h3>Additional instructions: If you wish to merge Branches</h3>
         <ol>
             <li>Enter the Repository on Github.</li>
             <li>Look for the Main or Master Branch.</li>
@@ -92,6 +92,12 @@
             <li>Repository</li>
             <p>It is a central storage location for the management and track of changes in files and directories.</p>
     	</ul>
+    <h2>References:</h2>
+        <ol>
+            <li>CODECADEMY. (n.d.). https://www.codecademy.com/enrolled/courses/learn-html. Retrieved September 29, 2024, from https://www.codecademy.com/enrolled/courses/learn-html</li>
+            <li>Webauth Authentication Service. (n.d.). https://njit.instructure.com/courses/38012/files/6841368?module_item_id=1466505</li>
+            <li>Webauth Authentication Service. (n.d.-b). https://njit.instructure.com/courses/38012/files/6841315?module_item_id=1466506</li>
+        </ol>
    </div>
  </body>
 </html>
