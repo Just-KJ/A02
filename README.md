@@ -38,6 +38,7 @@
 		    <li>Click on Sync Changes.</li>
 		    <li>When the pop-op comes up, click “ok”.</li>
     	</ol>
+    <br></br>
     <h1>Glossary:</h1>
         <ol>
       		<li>Branch</li>
