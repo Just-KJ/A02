@@ -4,7 +4,7 @@
  <body>
    <div>
     <h1>Basics of Github & Visual Code Studio (VS)<h1>
-    <h2>Step 1: Creating an account in Github</h2>
+    <h2><em>Step 1<em>: Creating an account in Github</h2>
 	    <ol>
       		<li>Go to the webpage of: <a href="https://github.com/">GitHub</a></li>
       		<li>Press “Sign Up”.</li>
