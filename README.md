@@ -71,27 +71,27 @@
         <ul>
       		<li><b>Branch</b></li>
             <p>An independent line of development.</p>
-      		<li>Clone</li>
+      		<li><b>Clone</b></li>
             <p>Action to copy the repository from your GitHub.com into your local machine.</p>
-            <li>Commit</li>
+            <li><b>Commit</b></li>
             <p>It how changes are recorded to one or more files in your branch (Git).</p>
-            <li>Fetch</li>
+            <li><b>Fetch</b></li>
             <p>It how changes are recorded to one or more files in your branch (Git).</p>
-            <li>GIT</li>
+            <li><b>GIT</b></li>
             <p>It is a version of a control system that lets you manage and keep track of your entire source code history.</p>
-            <li>Github</li>
+            <li><b>Github</b></li>
             <p>It is a cloud-based platform which permits developers to store, share, and collaborate on their codes.</p>            
-            <li>Merge</li>
+            <li><b>Merge</b></li>
             <p>Putting a history that was forked back together again.</p>
-            <li>Merge Conflict</li>
+            <li><b>Merge Conflict</b></li>
             <p>This is a conflict that occurs when Git is unable to automatically resolve differences in code between two separate commits.</p>
-            <li>Push</li>
+            <li><b>Push</b></li>
             <p>A command that is used to upload local repository content to a remote repository.</p>
-            <li>Pull</li>
+            <li><b>Pull</b></li>
             <p>A command used to fetch and download content from a remote repository and immediately update the local repository to match that very same content.</p>
-            <li>Remote</li>
+            <li><b>Remote</b></li>
             <p>A repository that different team members use to exchange their changes to code.</p>
-            <li>Repository</li>
+            <li><b>Repository</b></li>
             <p>It is a central storage location for the management and track of changes in files and directories.</p>
     	</ul>
     <br></br>
