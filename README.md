@@ -6,7 +6,7 @@
     <h1>Basics of Github & Visual Code Studio (VS)<h1>
     <h2>Step 1: Creating an account in Github</h2>
 	    <ol>
-      		<li>Go to the webpage of:<a href="https://github.com/">GitHub</a></li>
+      		<li>Go to the webpage of: <a href="https://github.com/">GitHub</a></li>
       		<li>Press “Sign Up”.</li>
       		<li>Fill out the information with your username, email, & password.</li>
       		<li>Verify your email.</li>
@@ -22,7 +22,8 @@
     <br></br>
     <h2>Step 3: Clone the repository in VS</h2>
 	    <ol>
-      		<li>Make sure you are using the same account for Github and VS.</li>
+      		<li>If you haven't done so yet,<a href="https://code.visualstudio.com/">download Visual Code Studio</a></li>
+            <li>Make sure you are using the same account for Github and VS.</li>
             <li>Copy the URL of the repository on Github.</li>
       		<li>Find the option to clone the repository on VS.</li>
       		<li>Place the URL and clone the repository.</li>
