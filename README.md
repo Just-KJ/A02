@@ -36,7 +36,9 @@
 		    <li>Click “Commit”.</li>
 		    <li>The option shown below should pop-up. Click “Commit and save all changes.”</li>
 		    <li>Click on Sync Changes.</li>
+            <img src="https://drive.google.com/file/d/1Mn5LwAm7XNEBuhERDdXoW8H5HWmdX96z/view?usp=sharing" alt="Image not available" />
 		    <li>When the pop-op comes up, click “ok”.</li>
+            <img src="https://drive.google.com/file/d/1Mn5LwAm7XNEBuhERDdXoW8H5HWmdX96z/view?usp=sharing" alt="Image not available" />
     	</ol>
     <br></br>
     <h1>Glossary:</h1>
