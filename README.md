@@ -36,8 +36,10 @@
       		<li>Give a name to the changes.</li>
 		    <li>Click “Commit”.</li>
 		    <li>Click “Commit and save all changes.”</li>
+            <img src="https://drive.google.com/uc?id=TUTORIALIMAGE" alt="Description of the image">
 		    <li>Click on Sync Changes.</li>
 		    <li>When the pop-op comes up, click “ok”.</li>
+            <img src="https://drive.google.com/uc?id=IMAGETUTORIAL" alt="Description of the image">
     	</ol>
     <h3>In case an error should appear when attempting to commit changes:</h3>
         <p>Sometimes it is necessary to adjust the username and email to ensure that that Github and VS are connected and finding the source code.</p>
@@ -92,6 +94,8 @@
             <li>Repository</li>
             <p>It is a central storage location for the management and track of changes in files and directories.</p>
     	</ul>
+    <br></br>
+    <br></br>
     <h2>References:</h2>
         <ol>
             <li>CODECADEMY. (n.d.). https://www.codecademy.com/enrolled/courses/learn-html. Retrieved September 29, 2024, from https://www.codecademy.com/enrolled/courses/learn-html</li>
