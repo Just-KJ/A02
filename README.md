@@ -3,7 +3,7 @@
 <html>
  <body>
    <div>
-    <h1>Basics of Github & Visual Code Studio (VS)<h1>
+    <h1><b>Basics of Github & Visual Code Studio (VS)</b><h1>
     <h2><em>Step 1</em>: Creating an account in Github</h2>
 	    <ol>
       		<li>Go to the webpage of: <a href="https://github.com/">GitHub</a></li>
@@ -36,10 +36,8 @@
       		<li>Give a name to the changes.</li>
 		    <li>Click “Commit”.</li>
 		    <li>Click “Commit and save all changes.”</li>
-            <img src="https://drive.google.com/uc?id=TUTORIALIMAGE" alt="Image not available">
 		    <li>Click on Sync Changes.</li>
 		    <li>When the pop-op comes up, click “ok”.</li>
-            <img src="https://drive.google.com/uc?id=IMAGETUTORIAL" alt="Image not available">
     	</ol>
     <h3>In case an error should appear when attempting to commit changes:</h3>
         <p>Sometimes it is necessary to adjust the username and email to ensure that that Github and VS are connected and finding the source code.</p>
@@ -74,9 +72,9 @@
       		<li><b>Clone</b></li>
             <p>Action to copy the repository from your GitHub.com into your local machine.</p>
             <li><b>Commit</b></li>
-            <p>It how changes are recorded to one or more files in your branch (Git).</p>
+            <p>It is how changes are recorded to one or more files in your branch (Git).</p>
             <li><b>Fetch</b></li>
-            <p>It how changes are recorded to one or more files in your branch (Git).</p>
+            <p>It is how you can retrieve new changes/work done by others in Github.</p>
             <li><b>GIT</b></li>
             <p>It is a version of a control system that lets you manage and keep track of your entire source code history.</p>
             <li><b>Github</b></li>
